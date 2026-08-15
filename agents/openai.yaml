@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Support Intake"
+  short_description: "Design privacy-safe support and bug intake"
+  default_prompt: "Use $design-support-intake to design a minimal diagnostic bundle and GitHub bug intake flow for this project."
